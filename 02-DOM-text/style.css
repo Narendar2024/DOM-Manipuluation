@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+body {
+  background: #000;
+  color: #fff;
+}
+
+.box {
+  min-width: 600px;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid purple;
+}
+
+.special {
+  color: teal;
+  font-style: italic;
+}
+
+strong {
+  color: rgba(173, 23, 23, 0.863);
+}
